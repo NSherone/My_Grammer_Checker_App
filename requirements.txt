@@ -1,0 +1,5 @@
+Flask==2.3.3
+gramformer==1.0.0  # Replace with the specific version you are using if needed
+torch==2.0.1  # Adjust the version according to your setup
+flet==0.0.7  # Replace with the specific version you are using if needed
+requests==2.31.0
